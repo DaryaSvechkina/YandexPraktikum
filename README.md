@@ -1,2 +1,2 @@
 # YandexPraktikum
-Projects from Data Science course by Yandex Praktikum
+My projects from Data Science course by Yandex Praktikum
